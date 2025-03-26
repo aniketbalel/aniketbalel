@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aniket and I'm a software developer.</p>
+<p align="left">My name is Aniket and I'm a Full-stack developer.</p>
 
 ###
 
